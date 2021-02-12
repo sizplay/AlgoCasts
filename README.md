@@ -8,4 +8,10 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 jest {folderName}/test.js --watch
 ```
 
-##
+| Debugger Mode                                             |
+| --------------------------------------------------------- |
+| Add a 'debugger' statement in your function               |
+| Call the function manually                                |
+| At the terminal, run 'node inspect index.js'              |
+| To continue execution of the file, press 'c' then 'enter' |
+| To launch a 'repl' session, type 'repl' then 'enter'      |
